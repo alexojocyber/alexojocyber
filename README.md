@@ -5,7 +5,7 @@
 
 ---
 
-##  Skills  
+## Skills  
 - *Security:* Threat detection, SIEM fundamentals, Incident Response basics  
 - *Tools:* Wireshark, Nmap, Linux CLI, Metasploit (beginner)  
 - *Scripting:* Bash, Python (beginner)  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 ###  *System Health Checker — Bash Script*  
 Automation script that outputs system uptime, CPU/memory usage, disk space, logged-in users, and active processes.  
 Skills: Bash, Linux Monitoring, Automation
@@ -34,7 +34,7 @@ Skills: Log Analysis, SIEM Concepts, Security Documentation
 
 ---
 
-##  Certifications  
+## Certifications  
 - *Google Cybersecurity Professional Certificate — 2025*  
 - *IBM Cybersecurity Analyst — In Progress*  
 - *TCM Security – Soft Skills for the Job Market — 2025*  
@@ -42,7 +42,7 @@ Skills: Log Analysis, SIEM Concepts, Security Documentation
 
 ---
 
-##  Repositories You Can Explore  
+## Repositories You Can Explore  
 | Project | Description |
 |--------|-------------|
 | *System-Health-Checker-Bash* | Bash automation script for Linux system monitoring |
@@ -53,7 +53,7 @@ Skills: Log Analysis, SIEM Concepts, Security Documentation
 
 ---
 
-## 📬 Contact  
+## Contact  
 📧 *ojoo.alexxx@gmail.com*  
 🔗 *LinkedIn:* linkedin.com/in/alex-o-ojo-ab9252185  
 
