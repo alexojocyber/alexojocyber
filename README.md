@@ -36,9 +36,8 @@ Skills: Log Analysis, SIEM Concepts, Security Documentation
 
 ## Certifications  
 - *Google Cybersecurity Professional Certificate — 2025*  
-- *IBM Cybersecurity Analyst — In Progress*  
-- *TCM Security – Soft Skills for the Job Market — 2025*  
-- *TerraHQ Data Analytics Certificate — 2024*
+- *IBM Cybersecurity Fubdamentals — 2025*
+
 
 ---
 
