@@ -1,5 +1,5 @@
 #  Hi, I'm Alex Ojo  
-### Cybersecurity Student | Google Cybersecurity Certified | Aspiring SOC Analyst  
+### Cybersecurity Student | Google & IBM Certified | Aspiring SOC Analyst  
  Building hands-on experience in security monitoring, Linux security, Bash scripting, and SIEM investigations.  
  Passionate about learning, problem-solving, and building cybersecurity projects.
 
