@@ -96,7 +96,7 @@ Automation script that outputs system uptime, CPU/memory usage, disk space, logg
 
 📧 **ojoo.alexxx@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alex-o-ojo-ab9252185)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alex-ojo-ab9252185?)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alexojocyber)
 
 ---
