@@ -13,7 +13,7 @@ Passionate about learning, problem-solving, and building real-world cybersecurit
 - **Tools:** Splunk Cloud, Wireshark, Nmap, Linux CLI, Fail2Ban, PAM faillock, Metasploit (beginner)
 - **Scripting:** Python, Bash
 - **Languages:** SPL (Splunk Search Processing Language)
-- **Frameworks:** MITRE ATT&CK, NIST CSF, ISO 27001, PCI-DSS, GDPR, CIS Controls
+- **Frameworks:** MITRE ATT&CK, NIST SP 800-61, NIST CSF, ISO 27001, PCI-DSS, GDPR, CIS Controls
 - **Networking:** TCP/IP, Ports, Protocols, Firewalls, SSH
 - **Systems:** Kali Linux, Ubuntu, Windows
 - **Other:** Documentation, Reporting, Power BI, Git/GitHub
@@ -22,7 +22,13 @@ Passionate about learning, problem-solving, and building real-world cybersecurit
 
 ## 🔬 Featured Projects
 
-### 🔐 GRC Security Audit — CipherPay Ltd *(NEW)*
+### 🚨 Incident Response Playbook — CipherPay Ltd *(NEW)*
+Developed a full enterprise Incident Response Playbook for a fictional fintech startup covering 3 incident types — Brute Force, Phishing, and Data Breach. Includes 18 response checklists, 5 communication templates, and a lessons learned framework mapped to NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR and PCI-DSS.
+**Skills:** Incident Response, GRC, NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR, PCI-DSS
+
+---
+
+### 🔐 GRC Security Audit — CipherPay Ltd
 Conducted a full security audit and risk assessment for a fictional fintech startup as a Junior GRC Analyst. Identified 14 risks across Critical, High, Medium and Low categories. Assessed 26 NIST CSF controls and 18 ISO 27001 controls. Delivered a 90-day remediation roadmap mapped to PCI-DSS and GDPR requirements.
 **Skills:** GRC, Risk Assessment, NIST CSF, ISO 27001, PCI-DSS, GDPR, Compliance Mapping
 
@@ -81,6 +87,7 @@ Automation script that outputs system uptime, CPU/memory usage, disk space, logg
 
 | Project | Description |
 |---------|-------------|
+| **Incident-Response-Playbook-CipherPay** | Full IR playbook mapped to NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR and PCI-DSS |
 | **GRC-Security-Audit-CipherPay** | Full GRC security audit mapped to NIST CSF, ISO 27001, PCI-DSS and GDPR |
 | **Splunk-SIEM-Lab** | Splunk Cloud detection dashboard with SPL queries and MITRE ATT&CK mapping |
 | **Python-Log-Parser** | Automated Python script for SSH brute force detection and incident reporting |
@@ -100,7 +107,5 @@ Automation script that outputs system uptime, CPU/memory usage, disk space, logg
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alexojocyber)
 
 ---
-
-> Keep checking back — I update this portfolio as I learn more! 🚀
 
 > Keep checking back — I update this portfolio as I learn more! 🚀
