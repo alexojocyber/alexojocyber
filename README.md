@@ -1,101 +1,163 @@
-# Hi, I'm Alex Ojo
+# Hi, I'm Alex Ojo 👋
 
-### Cybersecurity Student | Google & IBM Certified | Aspiring SOC & GRC Analyst
+### Cybersecurity Student | Blue Team | SOC & GRC | Network Security | Google & IBM Certified
 
-Building hands-on experience in security monitoring, Linux security, Python automation, SIEM investigations, GRC compliance, and incident response.
-Passionate about learning, problem-solving, and building real-world cybersecurity projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ojo-ab9252185)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D7377?style=flat&logo=google-chrome&logoColor=white)](https://alexojocyber.github.io)
 
 ---
 
-## 🛠️ Skills
+## 👨🏿‍💻 About Me
 
-- **Security:** Threat Detection, SIEM Monitoring, Incident Response, Brute Force Detection, Log Analysis, IOC Documentation, Risk Assessment, GRC Compliance
-- **Tools:** Splunk Cloud, Wireshark, Nmap, Linux CLI, Fail2Ban, PAM faillock, Metasploit (beginner)
-- **Scripting:** Python, Bash
-- **Languages:** SPL (Splunk Search Processing Language)
-- **Frameworks:** MITRE ATT&CK, NIST SP 800-61, NIST CSF, ISO 27001, PCI-DSS, GDPR, CIS Controls
-- **Networking:** TCP/IP, Ports, Protocols, Firewalls, SSH
-- **Systems:** Kali Linux, Ubuntu, Windows
-- **Other:** Documentation, Reporting, Power BI, Git/GitHub
+I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently completing a **six-month Defensive Security internship (SIWES) at HiiT PLC** — building real hands-on experience in:
+
+- 🔵 **Security Operations (SOC)** — SIEM monitoring, log analysis, brute-force detection, incident investigation
+- 🛡️ **GRC & Compliance** — Risk assessments, ISO 27001, NIST CSF, PCI-DSS, GDPR documentation
+- 🌐 **Network Security** — VLAN segmentation, inter-VLAN routing, Cisco IOS, subnetting, STP troubleshooting
+- 🐍 **Security Automation** — Python tools for file integrity monitoring, hash analysis, and network scanning
+- 🐧 **Linux Security** — System hardening, SSH configuration, access control, log investigation
+
+> 🎯 **Seeking:** Entry-level SOC Analyst, Cybersecurity Analyst, IT Support, or Blue Team role
+
+---
+
+## 🚀 Currently
+
+- 🔧 Completing SIWES defensive security internship at **HiiT PLC**
+- 📚 Progressing through **CEH** concepts and **CompTIA Security+/Network+** fundamentals
+- 🔨 Building a **Jira SOC Ticketing System Lab** — end-to-end SOC workflow with Splunk integration
+- 🤝 Open to **remote freelance**, **internship**, or **entry-level** opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+**Security & SOC**
+
+![SIEM](https://img.shields.io/badge/SIEM-Splunk-black?style=flat&logo=splunk&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat)
+![NIST](https://img.shields.io/badge/Framework-NIST%20CSF-blue?style=flat)
+![ISO27001](https://img.shields.io/badge/Standard-ISO%2027001-0D7377?style=flat)
+![GRC](https://img.shields.io/badge/GRC-Compliance-green?style=flat)
+![Incident Response](https://img.shields.io/badge/Incident-Response-orange?style=flat)
+
+**Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco-IOS%20CLI-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-Inter--VLAN%20Routing-1BA0D7?style=flat)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-DNS%20%7C%20DHCP%20%7C%20SSH-lightgrey?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-darkgreen?style=flat)
+
+**Programming & Tools**
+
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab%20Environment-183A61?style=flat)
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🚨 Incident Response Playbook — CipherPay Ltd *(NEW)*
-Developed a full enterprise Incident Response Playbook for a fictional fintech startup covering 3 incident types — Brute Force, Phishing, and Data Breach. Includes 18 response checklists, 5 communication templates, and a lessons learned framework mapped to NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR and PCI-DSS.
-**Skills:** Incident Response, GRC, NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR, PCI-DSS
+### 🏢 5-VLAN Enterprise Network Security Lab *(NEW)*
+> Designed and implemented a 5-department segmented enterprise network using Router-on-a-Stick, IEEE 802.1Q trunking, DHCP, and /26 CIDR subnetting in Cisco Packet Tracer. Diagnosed and resolved STP trunk port blocking issues. Security relevance mapped to NIST SP 800-53 (SC-7) and ISO 27001 Annex A.13.
+
+**Skills:** VLANs · Inter-VLAN Routing · Cisco IOS CLI · Subnetting · STP · Network Security
+🔗 [View Repository](https://github.com/alexojocyber/5-VLAN-Inter-VLAN-Routing-Lab)
 
 ---
 
-### 🔐 GRC Security Audit — CipherPay Ltd
-Conducted a full security audit and risk assessment for a fictional fintech startup as a Junior GRC Analyst. Identified 14 risks across Critical, High, Medium and Low categories. Assessed 26 NIST CSF controls and 18 ISO 27001 controls. Delivered a 90-day remediation roadmap mapped to PCI-DSS and GDPR requirements.
-**Skills:** GRC, Risk Assessment, NIST CSF, ISO 27001, PCI-DSS, GDPR, Compliance Mapping
+### 🔐 CVE Validation & Vulnerability Assessment Lab *(NEW)*
+> Performed host discovery, port scanning, service detection, and NSE scripting using Nmap against Metasploitable2. Successfully identified and validated **CVE-2011-2523** (vsFTPd 2.3.4 Backdoor) in a controlled environment. Documented findings and remediation recommendations in a structured report.
+
+**Skills:** Nmap · NSE Scripts · CVE Analysis · Vulnerability Assessment · Technical Documentation
 
 ---
 
-### 🐍 Python Automated Log Parser — SSH Brute Force Detection
-Built a Python script that automatically parses Linux authentication logs, detects brute-force patterns, flags suspicious IPs, and generates a structured incident report with MITRE ATT&CK and NIST mapping.
-**Skills:** Python, Log Analysis, Automation, MITRE ATT&CK, NIST Mapping
+### 🐍 Python Security Automation Toolkit *(NEW)*
+> Built three Python-based security tools: SHA-256 File Integrity Checker, VirusTotal Hash Lookup Utility (API integration), and Nmap-based Network Port Scanner. Applied Hashlib and Socket Programming to automate common security operations tasks.
+
+**Skills:** Python · Hashlib · Socket Programming · VirusTotal API · Security Automation
 
 ---
 
-### 🔍 Splunk SIEM Lab — Brute Force Detection Dashboard
-Ingested real Linux auth logs into Splunk Cloud, built 4 SPL detection queries, and created a live dashboard with bar charts, timeline analysis, and event tables. Mapped findings to MITRE ATT&CK T1110 and NIST controls.
-**Skills:** Splunk Cloud, SPL, SIEM, Dashboard Creation, MITRE ATT&CK, NIST Compliance
+### 🚨 Incident Response Playbook — CipherPay Ltd
+> Developed a full enterprise IR Playbook for a fictional fintech startup covering Brute Force, Phishing, and Data Breach incidents. Includes 18 response checklists, 5 communication templates, and a lessons learned framework mapped to NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR and PCI-DSS.
+
+**Skills:** Incident Response · NIST SP 800-61 · MITRE ATT&CK · ISO 27001 · GDPR · PCI-DSS
+🔗 [View Repository](https://github.com/alexojocyber/Incident-Response-Playbook-CipherPay)
 
 ---
 
-### 🔐 SSH Brute Force Detection & Defense Lab
-Simulated an SSH brute-force attack on Ubuntu, investigated authentication logs, and implemented automated IP blocking using Fail2Ban. Documented full attack timeline, IOCs, and defense configuration.
-**Skills:** SSH Security, Log Analysis, Fail2Ban, Incident Response, Linux Security
+### 📊 GRC Security Audit — CipherPay Ltd
+> Full security audit and risk assessment for a fictional fintech startup. Identified 14 risks across Critical, High, Medium, and Low severity. Assessed 26 NIST CSF controls and 18 ISO 27001 controls. Delivered a 90-day remediation roadmap.
+
+**Skills:** GRC · Risk Assessment · NIST CSF · ISO 27001 · PCI-DSS · GDPR
+🔗 [View Repository](https://github.com/alexojocyber/GRC-Security-Audit-CipherPay)
 
 ---
 
-### 🚨 Enterprise SIEM Lab — PAM Brute Force Detection
-Configured account lockout protection using PAM faillock to defend against brute-force attacks. Simulated failed login attempts, triggered lockout policies, mapped findings to MITRE ATT&CK, and recovered system after accidental lockout.
-**Skills:** Linux Security, PAM Configuration, Authentication Security, MITRE ATT&CK, Incident Recovery
+### 🔍 Splunk SIEM Lab — Brute Force Detection
+> Built a real-time SOC detection dashboard in Splunk Cloud, ingesting Linux auth logs and writing 4 SPL queries. Visualised attack patterns across 4 dashboard panels mapped to MITRE ATT&CK (T1110) and NIST controls AC-7, AU-2, SI-4.
+
+**Skills:** Splunk Cloud · SPL · SIEM · Dashboard Creation · MITRE ATT&CK
+🔗 [View Repository](https://github.com/alexojocyber/Splunk-SIEM-Lab)
 
 ---
 
-### 🌐 Network Traffic Analysis — Wireshark
-Analyzed PCAP files to identify anomalies, suspicious traffic, and common attack patterns.
-**Skills:** Packet Analysis, Network Security, Protocol Inspection
+### 🛡️ SSH Brute Force Detection & Defense Lab
+> Simulated an SSH brute-force attack on Ubuntu Linux, investigated authentication logs to reconstruct the full attack timeline, and configured Fail2Ban for automated IP blocking — containing the attacker after 3 failed login attempts within 5 minutes.
+
+**Skills:** SSH Security · Log Analysis · Fail2Ban · Incident Response · Linux Security
+🔗 [View Repository](https://github.com/alexojocyber/SSH-BruteForce-Detection-Lab)
 
 ---
 
-### 🔒 Linux Server Hardening (Home Lab)
-Configured user accounts, permissions, updates, and basic security controls.
-**Skills:** Linux Security, File Permissions, Hardening Practices
+### 🤝 Project Lazarus — Collaborative Blue Team IR Lab
+> Collaborative forensic investigation lab on CyberDefenders.org. Blue team incident response investigation covering evidence collection, timeline reconstruction, and attacker attribution.
+
+**Skills:** Digital Forensics · Blue Team · Incident Investigation · Collaboration
+🔗 [View Repository](https://github.com/alexojocyber/Project-Lazarus)
 
 ---
 
-### 💻 System Health Checker — Bash Script
-Automation script that outputs system uptime, CPU/memory usage, disk space, logged-in users, and active processes.
-**Skills:** Bash, Linux Monitoring, Automation
+## 📁 All Repositories
+
+| Repository | Description | Skills |
+|------------|-------------|--------|
+| [5-VLAN-Inter-VLAN-Routing-Lab](https://github.com/alexojocyber/5-VLAN-Inter-VLAN-Routing-Lab) | 5-VLAN enterprise network with Router-on-a-Stick | Cisco · VLANs · STP · Subnetting |
+| [Incident-Response-Playbook-CipherPay](https://github.com/alexojocyber/Incident-Response-Playbook-CipherPay) | Full IR playbook — NIST, MITRE ATT&CK, ISO 27001 | GRC · Incident Response |
+| [GRC-Security-Audit-CipherPay](https://github.com/alexojocyber/GRC-Security-Audit-CipherPay) | Full GRC audit — NIST CSF, ISO 27001, PCI-DSS, GDPR | GRC · Risk Assessment |
+| [Splunk-SIEM-Lab](https://github.com/alexojocyber/Splunk-SIEM-Lab) | Splunk Cloud detection dashboard + SPL queries | SIEM · Splunk · Blue Team |
+| [SSH-BruteForce-Detection-Lab](https://github.com/alexojocyber/SSH-BruteForce-Detection-Lab) | SSH attack simulation + Fail2Ban defense | Linux · Incident Response |
+| [Python-Log-Parser](https://github.com/alexojocyber/Python-Log-Parser) | Automated SSH brute-force detection + reporting | Python · Automation |
+| [Enterprise-SIEM-Lab](https://github.com/alexojocyber/Enterprise-SIEM-Lab) | PAM brute-force detection + MITRE ATT&CK mapping | Linux · SIEM · Authentication |
+| [SIEM-Investigation-Lab](https://github.com/alexojocyber/SIEM-Investigation-Lab) | SOC investigations — triage, IOC hunting, reports | SOC · Threat Hunting |
+| [Wireshark-Network-Analysis](https://github.com/alexojocyber/Wireshark-Network-Analysis) | Packet analysis — TCP/IP, DNS, HTTP, ICMP | Network Analysis · Wireshark |
+| [Linux-Security-Projects](https://github.com/alexojocyber/Linux-Security-Projects) | Hands-on Linux hardening and security configs | Linux · System Hardening |
+| [Project-Lazarus](https://github.com/alexojocyber/Project-Lazarus) | Collaborative Blue Team forensic IR lab | Digital Forensics · Blue Team |
+| [System-Health-Checker-Bash](https://github.com/alexojocyber/System-Health-Checker-Bash) | Bash script for Linux system health monitoring | Bash · Automation |
 
 ---
 
 ## 📜 Certifications
 
-- **Google Cybersecurity Professional Certificate — 2025**
-- **IBM Cybersecurity Analyst Professional Certificate — 2025**
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| Google Cybersecurity Professional Certificate | Google (Coursera) | 2025 |
+| IBM Cybersecurity Analyst Professional Certificate | IBM (Coursera) | 2025 |
+| CompTIA Security+ | In Progress | 2026 |
+| CEH (Certified Ethical Hacker) | In Progress | 2026 |
 
 ---
 
-## 📁 Repositories
+## 📊 GitHub Stats
 
-| Project | Description |
-|---------|-------------|
-| **Incident-Response-Playbook-CipherPay** | Full IR playbook mapped to NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR and PCI-DSS |
-| **GRC-Security-Audit-CipherPay** | Full GRC security audit mapped to NIST CSF, ISO 27001, PCI-DSS and GDPR |
-| **Splunk-SIEM-Lab** | Splunk Cloud detection dashboard with SPL queries and MITRE ATT&CK mapping |
-| **Python-Log-Parser** | Automated Python script for SSH brute force detection and incident reporting |
-| **SSH-BruteForce-Detection-Lab** | SSH attack simulation, log analysis, and Fail2Ban defense |
-| **SIEM-Investigation-Lab** | PAM brute-force detection with MITRE ATT&CK mapping |
-| **Wireshark-Network-Analysis** | Packet captures + analysis reports |
-| **Linux-Security-Projects** | Hands-on Linux hardening and security configurations |
-| **System-Health-Checker-Bash** | Bash automation script for Linux system monitoring |
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexojocyber&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexojocyber&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -103,9 +165,11 @@ Automation script that outputs system uptime, CPU/memory usage, disk space, logg
 
 📧 **ojoo.alexxx@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alex-ojo-ab9252185?)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alexojocyber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ojo-ab9252185)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexojocyber.github.io-0D7377?style=flat)](https://alexojocyber.github.io)
 
 ---
 
-> Keep checking back — I update this portfolio as I learn more! 🚀
+> *"Security is not a product, but a process."* — Bruce Schneier
+
+> 🔄 Updated regularly as I build new projects and gain new skills.
