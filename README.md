@@ -14,7 +14,7 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 
 - 🔵 **Security Operations (SOC)** — SIEM monitoring, log analysis, brute-force detection, incident investigation
 - 🛡️ **GRC & Compliance** — Risk assessments, ISO 27001, NIST CSF, PCI-DSS, GDPR documentation
-- 🌐 **Network Security** — VLAN segmentation, inter-VLAN routing, Cisco IOS, subnetting, STP troubleshooting
+- 🌐 **Network Security** — VLAN segmentation, ACLs, NAT, DHCP, OSPF, inter-VLAN routing, Cisco IOS
 - 🐍 **Security Automation** — Python tools for file integrity monitoring, hash analysis, and network scanning
 - 🐧 **Linux Security** — System hardening, SSH configuration, access control, log investigation
 
@@ -46,7 +46,9 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS%20CLI-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs-Inter--VLAN%20Routing-1BA0D7?style=flat)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-DNS%20%7C%20DHCP%20%7C%20SSH-lightgrey?style=flat)
+![NAT](https://img.shields.io/badge/NAT-PAT%20%7C%20Port%20Forwarding-0D7377?style=flat)
+![ACL](https://img.shields.io/badge/Security-Extended%20ACLs-red?style=flat)
+![OSPF](https://img.shields.io/badge/Routing-OSPF-success?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-darkgreen?style=flat)
 
@@ -62,30 +64,22 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 
 ## 🔬 Featured Projects
 
-### 🏢 5-VLAN Enterprise Network Security Lab *(NEW)*
-> Designed and implemented a 5-department segmented enterprise network using Router-on-a-Stick, IEEE 802.1Q trunking, DHCP, and /26 CIDR subnetting in Cisco Packet Tracer. Diagnosed and resolved STP trunk port blocking issues. Security relevance mapped to NIST SP 800-53 (SC-7) and ISO 27001 Annex A.13.
+### 🌐 Network Security Labs (Cisco Packet Tracer) *(NEW)*
 
-**Skills:** VLANs · Inter-VLAN Routing · Cisco IOS CLI · Subnetting · STP · Network Security
-🔗 [View Repository](https://github.com/alexojocyber/5-VLAN-Inter-VLAN-Routing-Lab)
+A series of enterprise networking labs building progressively from basic routing to advanced security controls:
 
----
-
-### 🔐 CVE Validation & Vulnerability Assessment Lab *(NEW)*
-> Performed host discovery, port scanning, service detection, and NSE scripting using Nmap against Metasploitable2. Successfully identified and validated **CVE-2011-2523** (vsFTPd 2.3.4 Backdoor) in a controlled environment. Documented findings and remediation recommendations in a structured report.
-
-**Skills:** Nmap · NSE Scripts · CVE Analysis · Vulnerability Assessment · Technical Documentation
-
----
-
-### 🐍 Python Security Automation Toolkit *(NEW)*
-> Built three Python-based security tools: SHA-256 File Integrity Checker, VirusTotal Hash Lookup Utility (API integration), and Nmap-based Network Port Scanner. Applied Hashlib and Socket Programming to automate common security operations tasks.
-
-**Skills:** Python · Hashlib · Socket Programming · VirusTotal API · Security Automation
+| Lab | Description | Key Skills |
+|-----|-------------|------------|
+| [5-VLAN Enterprise Network](https://github.com/alexojocyber/5-VLAN-Inter-VLAN-Routing-Lab) | 5-department VLAN segmentation with Router-on-a-Stick, STP troubleshooting | VLANs · Subnetting · STP |
+| [DHCP Multi-VLAN Lab](https://github.com/alexojocyber/DHCP-Multi-VLAN-Lab) | Centralised DHCP across 5 VLANs, DHCP security concepts | DHCP · DHCP Snooping |
+| [ACL Security Lab](https://github.com/alexojocyber/ACL-Security-Lab) | Extended ACLs enforcing least-privilege between departments, mapped to NIST AC-3 | ACLs · Lateral Movement Prevention |
+| [OSPF Dynamic Routing Lab](https://github.com/alexojocyber/OSPF-Routing-Lab) | OSPF Area 0 across 3 routers, route injection security awareness | OSPF · Dynamic Routing |
+| [NAT & Port Forwarding Lab](https://github.com/alexojocyber/NAT-and-Port-Forwarding-Lab) | PAT + static NAT, port forwarding attack surface, MITRE T1046/T1133 | NAT · PAT · NIST SC-7 |
 
 ---
 
 ### 🚨 Incident Response Playbook — CipherPay Ltd
-> Developed a full enterprise IR Playbook for a fictional fintech startup covering Brute Force, Phishing, and Data Breach incidents. Includes 18 response checklists, 5 communication templates, and a lessons learned framework mapped to NIST SP 800-61, MITRE ATT&CK, ISO 27001, GDPR and PCI-DSS.
+> Developed a full enterprise IR Playbook for a fictional fintech startup covering Brute Force, Phishing, and Data Breach incidents. Includes 18 response checklists, 5 communication templates, and a lessons learned framework.
 
 **Skills:** Incident Response · NIST SP 800-61 · MITRE ATT&CK · ISO 27001 · GDPR · PCI-DSS
 🔗 [View Repository](https://github.com/alexojocyber/Incident-Response-Playbook-CipherPay)
@@ -93,7 +87,7 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 ---
 
 ### 📊 GRC Security Audit — CipherPay Ltd
-> Full security audit and risk assessment for a fictional fintech startup. Identified 14 risks across Critical, High, Medium, and Low severity. Assessed 26 NIST CSF controls and 18 ISO 27001 controls. Delivered a 90-day remediation roadmap.
+> Full security audit and risk assessment for a fictional fintech startup. Identified 14 risks, assessed 26 NIST CSF controls and 18 ISO 27001 controls. Delivered a 90-day remediation roadmap.
 
 **Skills:** GRC · Risk Assessment · NIST CSF · ISO 27001 · PCI-DSS · GDPR
 🔗 [View Repository](https://github.com/alexojocyber/GRC-Security-Audit-CipherPay)
@@ -101,7 +95,7 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 ---
 
 ### 🔍 Splunk SIEM Lab — Brute Force Detection
-> Built a real-time SOC detection dashboard in Splunk Cloud, ingesting Linux auth logs and writing 4 SPL queries. Visualised attack patterns across 4 dashboard panels mapped to MITRE ATT&CK (T1110) and NIST controls AC-7, AU-2, SI-4.
+> Built a real-time SOC detection dashboard in Splunk Cloud, writing 4 SPL queries, visualising attack patterns across 4 panels, and mapping to MITRE ATT&CK (T1110) and NIST controls AC-7, AU-2, SI-4.
 
 **Skills:** Splunk Cloud · SPL · SIEM · Dashboard Creation · MITRE ATT&CK
 🔗 [View Repository](https://github.com/alexojocyber/Splunk-SIEM-Lab)
@@ -109,17 +103,31 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 ---
 
 ### 🛡️ SSH Brute Force Detection & Defense Lab
-> Simulated an SSH brute-force attack on Ubuntu Linux, investigated authentication logs to reconstruct the full attack timeline, and configured Fail2Ban for automated IP blocking — containing the attacker after 3 failed login attempts within 5 minutes.
+> Simulated an SSH brute-force attack on Ubuntu Linux, investigated auth logs to reconstruct the full attack timeline, and configured Fail2Ban for automated IP blocking within 5 minutes.
 
 **Skills:** SSH Security · Log Analysis · Fail2Ban · Incident Response · Linux Security
 🔗 [View Repository](https://github.com/alexojocyber/SSH-BruteForce-Detection-Lab)
 
 ---
 
-### 🤝 Project Lazarus — Collaborative Blue Team IR Lab
-> Collaborative forensic investigation lab on CyberDefenders.org. Blue team incident response investigation covering evidence collection, timeline reconstruction, and attacker attribution.
+### 🐍 Python Security Automation Toolkit
+> Built three Python security tools: SHA-256 File Integrity Checker, VirusTotal Hash Lookup Utility, and Nmap-based Network Port Scanner using Hashlib, Socket Programming, and VirusTotal API integration.
 
-**Skills:** Digital Forensics · Blue Team · Incident Investigation · Collaboration
+**Skills:** Python · Hashlib · Socket Programming · VirusTotal API · Security Automation
+
+---
+
+### 🔐 CVE Validation & Vulnerability Assessment Lab
+> Performed NSE scripting with Nmap against Metasploitable2. Successfully identified and validated **CVE-2011-2523** (vsFTPd 2.3.4 Backdoor) in a controlled environment with full documented findings.
+
+**Skills:** Nmap · NSE Scripts · CVE Analysis · Vulnerability Assessment
+
+---
+
+### 🤝 Project Lazarus — Collaborative Blue Team IR Lab
+> Collaborative forensic investigation lab on CyberDefenders.org covering evidence collection, timeline reconstruction, and attacker attribution.
+
+**Skills:** Digital Forensics · Blue Team · Incident Investigation
 🔗 [View Repository](https://github.com/alexojocyber/Project-Lazarus)
 
 ---
@@ -129,16 +137,20 @@ I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently
 | Repository | Description | Skills |
 |------------|-------------|--------|
 | [5-VLAN-Inter-VLAN-Routing-Lab](https://github.com/alexojocyber/5-VLAN-Inter-VLAN-Routing-Lab) | 5-VLAN enterprise network with Router-on-a-Stick | Cisco · VLANs · STP · Subnetting |
+| [DHCP-Multi-VLAN-Lab](https://github.com/alexojocyber/DHCP-Multi-VLAN-Lab) | Centralised DHCP across 5 VLANs with security concepts | DHCP · VLANs · Cisco IOS |
+| [ACL-Security-Lab](https://github.com/alexojocyber/ACL-Security-Lab) | Extended ACLs enforcing least-privilege — NIST AC-3, MITRE T1021 | ACLs · Network Security |
+| [OSPF-Routing-Lab](https://github.com/alexojocyber/OSPF-Routing-Lab) | OSPF dynamic routing across 3 routers — Area 0 | OSPF · Dynamic Routing |
+| [NAT-and-Port-Forwarding-Lab](https://github.com/alexojocyber/NAT-and-Port-Forwarding-Lab) | PAT + Static NAT + Port Forwarding — NIST SC-7, MITRE T1046 | NAT · PAT · Security |
 | [Incident-Response-Playbook-CipherPay](https://github.com/alexojocyber/Incident-Response-Playbook-CipherPay) | Full IR playbook — NIST, MITRE ATT&CK, ISO 27001 | GRC · Incident Response |
 | [GRC-Security-Audit-CipherPay](https://github.com/alexojocyber/GRC-Security-Audit-CipherPay) | Full GRC audit — NIST CSF, ISO 27001, PCI-DSS, GDPR | GRC · Risk Assessment |
 | [Splunk-SIEM-Lab](https://github.com/alexojocyber/Splunk-SIEM-Lab) | Splunk Cloud detection dashboard + SPL queries | SIEM · Splunk · Blue Team |
 | [SSH-BruteForce-Detection-Lab](https://github.com/alexojocyber/SSH-BruteForce-Detection-Lab) | SSH attack simulation + Fail2Ban defense | Linux · Incident Response |
 | [Python-Log-Parser](https://github.com/alexojocyber/Python-Log-Parser) | Automated SSH brute-force detection + reporting | Python · Automation |
-| [Enterprise-SIEM-Lab](https://github.com/alexojocyber/Enterprise-SIEM-Lab) | PAM brute-force detection + MITRE ATT&CK mapping | Linux · SIEM · Authentication |
+| [Enterprise-SIEM-Lab](https://github.com/alexojocyber/Enterprise-SIEM-Lab) | PAM brute-force detection + MITRE ATT&CK mapping | Linux · SIEM |
 | [SIEM-Investigation-Lab](https://github.com/alexojocyber/SIEM-Investigation-Lab) | SOC investigations — triage, IOC hunting, reports | SOC · Threat Hunting |
-| [Wireshark-Network-Analysis](https://github.com/alexojocyber/Wireshark-Network-Analysis) | Packet analysis — TCP/IP, DNS, HTTP, ICMP | Network Analysis · Wireshark |
+| [Wireshark-Network-Analysis](https://github.com/alexojocyber/Wireshark-Network-Analysis) | Packet analysis — TCP/IP, DNS, HTTP, ICMP | Network Analysis |
 | [Linux-Security-Projects](https://github.com/alexojocyber/Linux-Security-Projects) | Hands-on Linux hardening and security configs | Linux · System Hardening |
-| [Project-Lazarus](https://github.com/alexojocyber/Project-Lazarus) | Collaborative Blue Team forensic IR lab | Digital Forensics · Blue Team |
+| [Project-Lazarus](https://github.com/alexojocyber/Project-Lazarus) | Collaborative Blue Team forensic IR lab | Digital Forensics |
 | [System-Health-Checker-Bash](https://github.com/alexojocyber/System-Health-Checker-Bash) | Bash script for Linux system health monitoring | Bash · Automation |
 
 ---
