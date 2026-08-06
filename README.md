@@ -1,4 +1,4 @@
-<img width="3307" height="1654" alt="Alexojocyber Professional Banner" src="https://github.com/user-attachments/assets/00caa586-24a0-49bc-bd42-57e0e28edbb4" />
+<img width="3780" height="1890" alt="Alexojocyber Professional Banner" src="https://github.com/user-attachments/assets/03e619ae-f05c-4fd7-b610-40c1a6db6948" />
 
 # Hi, I'm Alex Ojo 👋
 
