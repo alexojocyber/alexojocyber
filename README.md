@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex Ojo 👋
 
-### Cybersecurity Student | Blue Team | SOC & GRC | Network Security | Google & IBM Certified
+### Cybersecurity Student | Security Operations (SOC) | Networking | Windows & Linux Administration | IT Support
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ojo-ab9252185)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber)
