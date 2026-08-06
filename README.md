@@ -1,3 +1,5 @@
+<img width="3307" height="1654" alt="Alexojocyber Professional Banner" src="https://github.com/user-attachments/assets/00caa586-24a0-49bc-bd42-57e0e28edbb4" />
+
 # Hi, I'm Alex Ojo 👋
 
 ### Cybersecurity Student | Blue Team | SOC & GRC | Network Security | Google & IBM Certified
