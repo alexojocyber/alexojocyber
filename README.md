@@ -12,7 +12,7 @@
 
 ## 👨🏿‍💻 About Me
 
-I'm a **Cybersecurity undergraduate** at Lead City University, Ibadan, currently completing a **six-month Defensive Security internship (SIWES) at HiiT PLC** — building real hands-on experience in:
+I'm a **Final Year Cybersecurity Undergraduate** at Lead City University, Ibadan, currently completing a **six-month Defensive Security internship (SIWES) at HiiT PLC** — building real hands-on experience in:
 
 - 🔵 **Security Operations (SOC)** — SIEM monitoring, log analysis, brute-force detection, incident investigation
 - 🛡️ **GRC & Compliance** — Risk assessments, ISO 27001, NIST CSF, PCI-DSS, GDPR documentation
