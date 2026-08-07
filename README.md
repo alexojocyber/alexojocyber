@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ojo-ab9252185)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D7377?style=flat&logo=google-chrome&logoColor=white)](https://alexojocyber.github.io)
+[![Projects](https://img.shields.io/badge/Projects-21%2B-success?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber?tab=repositories)
 
 ---
 
@@ -143,6 +144,11 @@ A series of enterprise networking labs building progressively from basic routing
 | [ACL-Security-Lab](https://github.com/alexojocyber/ACL-Security-Lab) | Extended ACLs enforcing least-privilege — NIST AC-3, MITRE T1021 | ACLs · Network Security |
 | [OSPF-Routing-Lab](https://github.com/alexojocyber/OSPF-Routing-Lab) | OSPF dynamic routing across 3 routers — Area 0 | OSPF · Dynamic Routing |
 | [NAT-and-Port-Forwarding-Lab](https://github.com/alexojocyber/NAT-and-Port-Forwarding-Lab) | PAT + Static NAT + Port Forwarding — NIST SC-7, MITRE T1046 | NAT · PAT · Security |
+| [STP-Spanning-Tree-Lab](https://github.com/alexojocyber/STP-Spanning-Tree-Lab) | Spanning Tree Protocol config for loop prevention and link redundancy | STP · Switching · Cisco IOS |
+| [Network-Monitoring-and-Troubleshooting-Lab](https://github.com/alexojocyber/Network-Monitoring-and-Troubleshooting-Lab) | Diagnosing and resolving connectivity issues across a simulated network | Network Troubleshooting · Monitoring |
+| [DNS-and-Web-Server-Lab](https://github.com/alexojocyber/DNS-and-Web-Server-Lab) | DNS resolution and web server configuration in a lab environment | DNS · Web Servers · Cisco IOS |
+| [SSH-Remote-Management-Lab](https://github.com/alexojocyber/SSH-Remote-Management-Lab) | Secure SSH-based remote device administration and access control | SSH · Remote Administration |
+| [active-directory-home-lab](https://github.com/alexojocyber/active-directory-home-lab) | Windows Server Active Directory domain — users, groups, GPOs | Active Directory · Windows Server |
 | [Incident-Response-Playbook-CipherPay](https://github.com/alexojocyber/Incident-Response-Playbook-CipherPay) | Full IR playbook — NIST, MITRE ATT&CK, ISO 27001 | GRC · Incident Response |
 | [GRC-Security-Audit-CipherPay](https://github.com/alexojocyber/GRC-Security-Audit-CipherPay) | Full GRC audit — NIST CSF, ISO 27001, PCI-DSS, GDPR | GRC · Risk Assessment |
 | [Splunk-SIEM-Lab](https://github.com/alexojocyber/Splunk-SIEM-Lab) | Splunk Cloud detection dashboard + SPL queries | SIEM · Splunk · Blue Team |
