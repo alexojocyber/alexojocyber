@@ -1,8 +1,9 @@
-<img width="3780" height="1890" alt="Alexojocyber Professional Banner" src="https://github.com/user-attachments/assets/03e619ae-f05c-4fd7-b610-40c1a6db6948" />
+<img width="5987" height="1497" alt="Alexojocyber Professional Banner-LInkedIn (1584 x 396 mm)" src="https://github.com/user-attachments/assets/479f8f97-4570-4050-9022-b2b9d7509c60" />
+
 
 # Hi, I'm Alex Ojo 👋
 
-### Cybersecurity Student | Security Operations (SOC) | Networking | Windows & Linux Administration | IT Support
+### Cybersecurity Analyst | IT Support Specialist | SOC · GRC · Network Security · Cisco · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ojo-ab9252185)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber)
@@ -13,21 +14,17 @@
 
 ## 👨🏿‍💻 About Me
 
-I'm a **Final Year Cybersecurity Undergraduate** at Lead City University, Ibadan, currently completing a **six-month Defensive Security internship (SIWES) at HiiT PLC** — building real hands-on experience in:
+Cybersecurity Analyst and IT Support Specialist currently completing a six-month Defensive Security internship at HiiT PLC. I build real-world security labs — detecting threats with Splunk, validating CVEs, configuring enterprise Cisco networks with VLANs, ACLs, NAT and OSPF, writing Python security automation tools, and conducting full GRC audits mapped to NIST, ISO 27001, PCI-DSS and GDPR.
 
-- 🔵 **Security Operations (SOC)** — SIEM monitoring, log analysis, brute-force detection, incident investigation
-- 🛡️ **GRC & Compliance** — Risk assessments, ISO 27001, NIST CSF, PCI-DSS, GDPR documentation
-- 🌐 **Network Security** — VLAN segmentation, ACLs, NAT, DHCP, OSPF, inter-VLAN routing, Cisco IOS
-- 🐍 **Security Automation** — Python tools for file integrity monitoring, hash analysis, and network scanning
-- 🐧 **Linux Security** — System hardening, SSH configuration, access control, log investigation
+21+ hands-on projects. Google and IBM certified. Working toward CompTIA Security+ and CEH.
 
-> 🎯 **Seeking:** Entry-level SOC Analyst, Cybersecurity Analyst, IT Support, or Blue Team role
+> 🎯 Open to remote entry-level SOC Analyst, IT Support, or Blue Team roles.
 
 ---
 
 ## 🚀 Currently
 
-- 🔧 Completing SIWES defensive security internship at **HiiT PLC**
+- 🔧 Defensive Security Intern at **HiiT PLC** — system hardening, networking labs, Python security automation
 - 📚 Progressing through **CEH** concepts and **CompTIA Security+/Network+** fundamentals
 - 🔨 Building a **Jira SOC Ticketing System Lab** — end-to-end SOC workflow with Splunk integration
 - 🤝 Open to **remote freelance**, **internship**, or **entry-level** opportunities
