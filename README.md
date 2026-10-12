@@ -8,7 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ojo-ab9252185)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D7377?style=flat&logo=google-chrome&logoColor=white)](https://alexojocyber.github.io)
-[![Projects](https://img.shields.io/badge/Projects-21%2B-success?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber?tab=repositories)
+[![Projects](https://img.shields.io/badge/Projects-22%2B-success?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber?tab=repositories)
+| [AI-Response-Evaluation-Portfolio](https://github.com/alexojocyber/AI-Response-Evaluation-Portfolio) | Real ChatGPT vs Gemini evaluations, rubric-scored and verified by lab testing and code | AI Evaluation · RLHF · Code Review |
 
 ---
 
