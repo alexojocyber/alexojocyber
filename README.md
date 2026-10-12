@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D7377?style=flat&logo=google-chrome&logoColor=white)](https://alexojocyber.github.io)
 [![Projects](https://img.shields.io/badge/Projects-22%2B-success?style=flat&logo=github&logoColor=white)](https://github.com/alexojocyber?tab=repositories)
-| [AI-Response-Evaluation-Portfolio](https://github.com/alexojocyber/AI-Response-Evaluation-Portfolio) | Real ChatGPT vs Gemini evaluations, rubric-scored and verified by lab testing and code | AI Evaluation · RLHF · Code Review |
 
 ---
 
@@ -17,9 +16,9 @@
 
 Cybersecurity Analyst and IT Support Specialist currently completing a six-month Defensive Security internship at HiiT PLC. I build real-world security labs — detecting threats with Splunk, validating CVEs, configuring enterprise Cisco networks with VLANs, ACLs, NAT and OSPF, writing Python security automation tools, and conducting full GRC audits mapped to NIST, ISO 27001, PCI-DSS and GDPR.
 
-21+ hands-on projects. Google and IBM certified. Working toward CompTIA Security+ and CEH.
+22+ hands-on projects. Google and IBM certified. Working toward CompTIA Security+ and CEH.
 
-> 🎯 Open to remote entry-level SOC Analyst, IT Support, or Blue Team roles.
+> 🎯 Open to remote entry-level SOC Analyst, IT Support, or Blue Team roles, and AI evaluation work in cybersecurity and IT.
 
 ---
 
@@ -27,6 +26,7 @@ Cybersecurity Analyst and IT Support Specialist currently completing a six-month
 
 - 🔧 Defensive Security Intern at **HiiT PLC** — system hardening, networking labs, Python security automation
 - 📚 Progressing through **CEH** concepts and **CompTIA Security+/Network+** fundamentals
+- 🤖 Evaluating AI model outputs (ChatGPT vs Gemini) in my domain, scored on a rubric and verified in the lab
 - 🔨 Building a **Jira SOC Ticketing System Lab** — end-to-end SOC workflow with Splunk integration
 - 🤝 Open to **remote freelance**, **internship**, or **entry-level** opportunities
 
@@ -64,6 +64,14 @@ Cybersecurity Analyst and IT Support Specialist currently completing a six-month
 ---
 
 ## 🔬 Featured Projects
+
+### 🤖 AI Response Evaluation Portfolio *(NEW)*
+> Cybersecurity and IT evaluations of real AI model outputs (ChatGPT vs Gemini), scored on a consistent rubric with written anchors and verified by testing. In one evaluation, a Cisco Packet Tracer lab proved ChatGPT's claim that staff could still reach a guest VLAN was wrong. A worked code-review example shows, with a runnable test, how a plausible-looking regex silently misses every "invalid user" brute-force attempt.
+
+**Skills:** AI Evaluation · RLHF · Code Review · Cisco ACLs · Python · Technical Verification
+🔗 [View Repository](https://github.com/alexojocyber/AI-Response-Evaluation-Portfolio)
+
+---
 
 ### 🌐 Network Security Labs (Cisco Packet Tracer) *(NEW)*
 
@@ -137,6 +145,7 @@ A series of enterprise networking labs building progressively from basic routing
 
 | Repository | Description | Skills |
 |------------|-------------|--------|
+| [AI-Response-Evaluation-Portfolio](https://github.com/alexojocyber/AI-Response-Evaluation-Portfolio) | Real ChatGPT vs Gemini evaluations, rubric-scored and verified by lab testing and code | AI Evaluation · RLHF · Code Review |
 | [5-VLAN-Inter-VLAN-Routing-Lab](https://github.com/alexojocyber/5-VLAN-Inter-VLAN-Routing-Lab) | 5-VLAN enterprise network with Router-on-a-Stick | Cisco · VLANs · STP · Subnetting |
 | [DHCP-Multi-VLAN-Lab](https://github.com/alexojocyber/DHCP-Multi-VLAN-Lab) | Centralised DHCP across 5 VLANs with security concepts | DHCP · VLANs · Cisco IOS |
 | [ACL-Security-Lab](https://github.com/alexojocyber/ACL-Security-Lab) | Extended ACLs enforcing least-privilege — NIST AC-3, MITRE T1021 | ACLs · Network Security |
